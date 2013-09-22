@@ -6,3 +6,4 @@ set laststatus=2
 set tabstop=4
 set autoindent
 set clipboard=unnamed,autoselect
+set statusline=%F
